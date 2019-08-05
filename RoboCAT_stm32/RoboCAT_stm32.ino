@@ -3,7 +3,6 @@
  https://www.thingiverse.com/thing:3742772
  Serjey Kolobov (ittonru)
  August 2, 2019.
-test_test
 */
 #include <Servo.h>
 
