@@ -5,7 +5,7 @@
  August 2, 2019.
 test_test
 */
-
+///3333
 #include <Servo.h>
 
 Servo s0, s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13;  // create servo object to control a servo
